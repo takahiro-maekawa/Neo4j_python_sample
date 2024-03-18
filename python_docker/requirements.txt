@@ -1,0 +1,4 @@
+ipython
+Jupyter
+jupyterlab
+neo4j-driver
